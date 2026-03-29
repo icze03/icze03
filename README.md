@@ -43,14 +43,12 @@ A role-based leave management system designed to streamline employee request wor
 
 ### Energenius – Smart Energy Management System
 
-A capstone project focused on optimizing energy usage in SME offices.
+Hr Management System.
 
 **Key Features:**
 
-* Simulated real-time energy monitoring
-* Role-based dashboards
-* Data-driven insights and recommendations
-* Scalable system architecture (Next.js + Firebase planned)
+* Manage Employees
+
 
 ---
 
