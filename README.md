@@ -1,90 +1,160 @@
-<h1 align="center">Klein Imperio</h1>
+<!-- ======================= HEADER ======================= -->
+
+<h1 align="center">Hi 👋, I'm Klein Imperio</h1>
+
 <p align="center">
-  BSIT Student • Aspiring Software Engineer • Full-Stack Developer
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;System+Builder;Future+IT+Outsourcing+Founder;Building+Real-World+Solutions" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=180&section=header&text=Klein%20Imperio&fontSize=36&fontColor=ffffff"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Building+Real-World+Systems;Laravel+%7C+Next.js+Developer;Future+Software+Engineer"/>
-</p>
-
----
-
-## About Me
-
-I am a BSIT student focused on building practical, real-world systems using modern web technologies such as Laravel, Next.js, React, and Vue.js.
-
-I aim to become a software engineer with strong backend and system design skills, capable of building scalable and efficient solutions for real-world problems.
-
----
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nextjs,react,vue,js,html,css,mysql,git,github" />
+  <img src="https://komarev.com/ghpvc/?username=icze03&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/icze03?label=Followers&style=social" />
 </p>
 
 ---
 
-## Featured Projects
+## 🌐 Portfolio
 
 <p align="center">
-  <a href="https://github.com/icze03/leave_request_system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=icze03&repo=leave_request_system&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/icze03/energenius-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=icze03&repo=energenius-system&theme=tokyonight" />
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
   </a>
 </p>
 
+<p align="center">
+Explore my projects, system case studies, and real-world solutions.
+</p>
+
 ---
 
-## GitHub Overview
+## 🧠 About Me
+
+* 🎓 BSIT student specializing in **real-world system development**
+* 💻 Building **scalable and practical web applications**
+* ⚡ Interested in **backend systems, automation, and system design**
+* 🚀 Goal: Build an **IT outsourcing company**
+* 📈 Currently improving in **architecture and problem-solving**
+
+---
+
+## 🚀 Featured Projects
+
+### ⚡ Energenius (Capstone)
+
+> Smart Energy Management System for SME Offices
+
+* 📊 Real-time monitoring (simulated environment)
+* 🤖 AI-powered recommendations
+* ⏱ Smart scheduling system
+* 🔐 Role-based access control
+* ⚙️ Tech: Next.js + Firebase (+ ESP32 planned)
+
+---
+
+### 🗂 HR Management System
+
+> Digital workflow system replacing manual processes
+
+* ✅ Structured approval workflow
+* 🎯 Clean UI/UX improvements
+* 📄 With full documentation & user manual
+* 🔄 Designed as a production-ready replacement
+
+---
+
+### 📦 Supply Request System
+
+> Internship project (Enhanced existing system)
+
+* 🔧 Improved legacy system (not built from scratch)
+* 🚀 Optimized workflow and usability
+* 📘 Turnover-ready documentation
+* 💡 Built with real company use-case in mind
+
+---
+
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=icze03&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,firebase,html,css,tailwind,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=icze03&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icze03&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=icze03&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-## Development Approach
-
-* Build systems that solve real-world problems
-* Focus on usability and long-term value
-* Adapt to requirements and continuously improve solutions
-* Prioritize clean and scalable architecture
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=icze03&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
-## Current Focus
+## 🧠 Currently Building
 
-* Backend development (Laravel, APIs, system design)
-* Full-stack development using modern frameworks
-* Building production-ready applications
-
----
-
-## Career Goals
-
-To grow as a software engineer or full-stack developer while gaining real-world experience and contributing to impactful systems.
-
-I am open to opportunities locally and internationally, and I aim to eventually build scalable IT solutions and services.
+* Improving **system architecture skills**
+* Developing **scalable full-stack systems**
+* Exploring **automation and backend optimization**
 
 ---
 
-## Philosophy
+## 🧠 Development Philosophy
 
-Consistency, adaptability, and continuous learning are at the core of my development process. I focus on improvement over comparison and approach challenges as opportunities to grow.
+Build simple → Make it work → Improve → Scale
+
+* Focus on **real-world usability**
+* Build **clean and maintainable systems**
+* Solve **actual business problems**
+* Learn through **hands-on development**
+
+---
+
+## 🎯 Current Goals
+
+* 💼 Become a **Full-Stack / Backend Developer**
+* 📈 Gain real-world development experience
+* 🌍 Explore opportunities locally and internationally
+* 🏢 Build useful and scalable systems
+
+---
+
+## 💡 What Sets Me Apart
+
+✔ I build **real systems**, not just academic projects
+✔ I improve and redesign **existing systems**
+✔ I focus on **practical implementation**
+✔ I learn fast through **hands-on development**
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:kleinimperio.it@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/kleinimperio">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/icze03">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 <p align="center">
-  Building systems with purpose and real-world impact.
+⭐ <i>"I build systems that are simple, scalable, and ready for real-world use."</i>
 </p>
