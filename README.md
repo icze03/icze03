@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Klein Imperio</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;System+Builder;Web+Developer;Software+Engineer;Building+Real-World+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI-powered+Full-Stack+Developer;System+Builder;Web+Developer;Software+Engineer;Building+Real-World+Solutions" />
 </p>
 
 <p align="center">
