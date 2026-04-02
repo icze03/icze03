@@ -76,7 +76,7 @@ Explore my projects, system case studies, and real-world solutions.
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,firebase,html,css,tailwind,git,github" />
+<img src="https://skillicons.dev/icons?i=laravel,php,react,nextjs,js,ts,firebase,html,css,tailwind,git,github" />
 </p>
 
 ---
