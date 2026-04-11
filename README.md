@@ -32,7 +32,7 @@ Explore my projects, system case studies, and real-world solutions.
 * 🎓 BSIT student specializing in **real-world system development**
 * 💻 Building **scalable and practical web applications**
 * ⚡ Interested in **backend systems, automation, and system design**
-* 🚀 Goal: Build an **IT outsourcing company**
+* 🚀 Goal: Build a **system that will contribute for generations**
 * 📈 Currently improving in **architecture and problem-solving**
 
 ---
