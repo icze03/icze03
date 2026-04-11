@@ -16,7 +16,7 @@
 ## 🌐 Portfolio
 
 <p align="center">
-  <a href="https://your-portfolio-link.com">
+  <a href="[https://your-portfolio-link.com](https://website-portfolio-imperio.vercel.app/)">
     <img src="https://img.shields.io/badge/View%20My%20Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
   </a>
 </p>
@@ -82,11 +82,6 @@ Explore my projects, system case studies, and real-world solutions.
 ---
 
 ## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=icze03&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icze03&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=icze03&theme=tokyonight&hide_border=true"/>
