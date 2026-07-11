@@ -29,7 +29,7 @@ Explore my projects, system case studies, and real-world solutions.
 
 ## 🧠 About Me
 
-* 🎓 BSIT student specializing in **real-world system development**
+* 🎓 BSIT Graduate specializing in **real-world system development**
 * 💻 Building **scalable and practical web applications**
 * ⚡ Interested in **backend systems, automation, and system design**
 * 🚀 Goal: Build a **system that will contribute for generations**
