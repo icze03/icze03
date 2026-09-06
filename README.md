@@ -89,9 +89,7 @@ Explore my projects, system case studies, and real-world solutions.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=icze03&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=icze03&theme=tokyo-night&hide_border=true"/>
-</p>
+
 
 ---
 
